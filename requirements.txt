@@ -2,7 +2,7 @@ langchain
 InstructorEmbedding
 sentence_transformers 
 huggingface-hub
-faiss
+# faiss
 streamlit
 uvicorn
 fastapi
