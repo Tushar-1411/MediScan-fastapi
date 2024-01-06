@@ -1,9 +1,9 @@
-# langchain
-# InstructorEmbedding
-# sentence_transformers 
-# huggingface-hub
-# faiss
-# streamlit
-# uvicorn
+langchain
+InstructorEmbedding
+sentence_transformers 
+huggingface-hub
+faiss
+streamlit
+uvicorn
 fastapi
 mangum
